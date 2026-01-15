@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { CheckCircle2, XCircle, RotateCcw, Trophy, Home } from 'lucide-react';
+import { CheckCircle2, XCircle, RotateCcw, Trophy } from 'lucide-react';
 
 interface Question {
   id: number;
