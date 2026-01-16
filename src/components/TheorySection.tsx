@@ -350,6 +350,23 @@ const sections = [
     ]
   },
 
+  {
+    layout: "grid",
+    title: "Tại sao \"trước hết cần có những con người xã hội chủ nghĩa\"?",
+    subtitle: "Đây là luận điểm quan trọng nhất trong chủ đề của bạn. Bạn cần làm rõ 3 lý do:",
+    images: [
+
+    ],
+    bgColor: "#3b1a12",
+    titleColor: "#e3b089",
+    textColor: "#ffedd5",
+    content: [
+      "Con người là chủ thể của mọi hoạt động: Mọi chính sách, máy móc hay công nghệ dù hiện đại đến đâu cũng chỉ là vật chất thụ động. Chính con người là người vận hành và hiện thực hóa những lý tưởng đó.",
+      "Để đối đầu với lực cản từ \"xã hội cũ\": Xây dựng CNXH là một cuộc chiến chống lại những thói quen lạc hậu, tư tưởng ích kỷ, tham ô, lãng phí. Muốn thắng \"giặc nội xâm\" này, phải có những con người có tư tưởng mới.",
+      "Mối quan hệ \"đi trước một bước\": Hồ Chí Minh khẳng định: “Muốn xây dựng chủ nghĩa xã hội, trước hết cần có những con người xã hội chủ nghĩa”. Nghĩa là công tác đào tạo con người phải đi trước, chuẩn bị sẵn sàng nguồn lực để gánh vác sự nghiệp xây dựng đất nước.",
+    ]
+  },
+
 ];
 
 /* =========================
