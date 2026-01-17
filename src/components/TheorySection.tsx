@@ -65,7 +65,7 @@ const sections = [
     subtitle: "Con đường giải phóng dân tộc ở Việt Nam",
     images: [
       "https://tse1.mm.bing.net/th/id/OIP.7Prp7KSQO9CnQnrilFYFCwHaEc?rs=1&pid=ImgDetMain&o=7&rm=3",
-      "https://i.pinimg.com/736x/94/bb/2b/94bb2b622d4f6c6f530d5dc704a6ec61.jpg"
+      "https://24h68.com/wp-content/uploads/2021/06/24hhoc.edu_.vn-tai-sao-ho-chi-minh-khang-dinh-cach-mang-giai-phong-dan-toc-muon-thang-loi-thi-phai-di-theo-con-duong-cach-mang-vo-san.png"
     ],
     bgColor: "#0b0f14",
     titleColor: "#e0c36a",
@@ -100,7 +100,7 @@ const sections = [
     title: "Tư tưởng Hồ Chí Minh về CNXH & xây dựng CNXH ở Việt Nam",
     subtitle: "Vì sao Việt Nam nhất định phải đi lên CNXH?",
     images: [
-      "https://i.pinimg.com/736x/f6/b1/44/f6b144d09b293e60b1f314e83ee45c97.jpg",
+      "https://tse1.mm.bing.net/th/id/OIP.m3b9UOQmgY8l897LFz7KigHaFP?rs=1&pid=ImgDetMain&o=7&rm=3",
 
     ],
     bgColor: "#3b1a12",
@@ -137,7 +137,7 @@ const sections = [
     title: "Tư tưởng Hồ Chí Minh về CNXH & xây dựng CNXH ở Việt Nam",
     subtitle: "Mục tiêu xây dựng CNXH ở Việt Nam",
     images: [
-      "https://i.pinimg.com/736x/e0/ad/0d/e0ad0db498d84caa49efa7afccd60d3d.jpg",
+      "https://th.bing.com/th/id/R.64aa82bd5e7cbad962f800d39831b618?rik=RlZuxgCbQcPSpA&riu=http%3a%2f%2fredsvn.net%2fwp-content%2fuploads%2f2019%2f04%2fTranh-co-dong.jpg&ehk=x3ps3DhBy9UERYo0iwLjGGFMKo5RwXdoopgDwEnUnQg%3d&risl=&pid=ImgRaw&r=0",
 
     ],
     bgColor: "#3b1a12",
